@@ -70,7 +70,7 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 
 ## 🎉Agradecimentos 🎉
 - One Oracle Next Education
-- 
+- Alura
 Alura
 - Fontes Google Fonts : Inter e Merriweather.
 - Ícones : Material Icons (via Google Fonts).
